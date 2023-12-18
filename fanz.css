@@ -1,0 +1,38 @@
+
+
+.qwe{   
+    text-align: 640px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+
+    background-color: burlywood;
+    padding-left: 640px;
+    box-shadow: 10px;
+    
+    
+    
+}
+label{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+.f{
+    font-size: medium;
+    margin-left:1440px ;
+    background-color: blue;
+    color: rgb(0, 0, 0);
+}
+
+.snd{
+    background-image: url('images/Alan-Walker-logo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    background-color: burlywood;
+    padding-left: 640px;
+    font-size: larger;
+}
